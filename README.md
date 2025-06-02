@@ -1,5 +1,2 @@
-<div align="center">
-	<a href="https://paralez.vercel.app/">
-	<img src="https://files.catbox.moe/38u2mv.png"/>
-	</a>
-</div>
+<h3 align="center">I'm Paradox you can call me "Bia"</h3>
+<h3 align="center">👋 I'm a student of King Mongkut's University of Technology North Bangkok Prachinburi campus, KMUTNB PJ</h3>
