@@ -31,8 +31,7 @@
 
 - 📧 อีเมล: [dragontty644@gmail.com]
 - 💬 LinkedIn: [https://www.linkedin.com/in/thitiwat-phanprakhon-9b2009329/]
-- 🌐 เว็บไซต์/บล็อก: [https://paralez.vercel.app/]
-- 🐦 X: [https://x.com/TurtleX20]
+- 🌐 เว็บไซต์/บล็อก: [https://myblog-px.vercel.app/]
 
 ## 😄 ความสนใจนอกเหนือจากโค้ด
 
